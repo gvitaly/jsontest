@@ -1,4 +1,4 @@
-[ "country": [
+{ "country": [
   {
     "countryId": 1,
     "iso2Code": "RU",
@@ -145,4 +145,4 @@
     "name": "Uzbekistan"
   }
 ]
-]
+}
